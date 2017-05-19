@@ -4,7 +4,7 @@ using Xunit;
 
 namespace ML.Tests
 {
-    public class UnitTest1
+    public class DecisionTree_IsDT
     {
         [Fact]
         public void EntropyTest1()

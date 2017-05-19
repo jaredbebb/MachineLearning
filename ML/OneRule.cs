@@ -114,5 +114,19 @@ namespace ML
             }
             Console.WriteLine("Error:{0}",classError);
         }
+
+        public OneRule WhichClass(OneRule[] or)
+        {
+            OneRule chose = new OneRule();
+            for (int i = 0; i < or.Length; i++)
+            {
+                OneRule curr = or[i];
+                if (curr.getClassError() < chose.getClassError())
+                {
+                    chose = curr;
+                }
+            }
+            return chose;
+        }
     }
 }
