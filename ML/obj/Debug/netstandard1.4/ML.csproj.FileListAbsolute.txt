@@ -1,0 +1,7 @@
+C:\Users\jaredbebb\Documents\Visual Studio 2017\Projects\MachineLearning\ML\bin\Debug\netstandard1.4\ML.deps.json
+C:\Users\jaredbebb\Documents\Visual Studio 2017\Projects\MachineLearning\ML\bin\Debug\netstandard1.4\ML.dll
+C:\Users\jaredbebb\Documents\Visual Studio 2017\Projects\MachineLearning\ML\bin\Debug\netstandard1.4\ML.pdb
+C:\Users\jaredbebb\Documents\Visual Studio 2017\Projects\MachineLearning\ML\obj\Debug\netstandard1.4\ML.AssemblyInfo.cs
+C:\Users\jaredbebb\Documents\Visual Studio 2017\Projects\MachineLearning\ML\obj\Debug\netstandard1.4\ML.dll
+C:\Users\jaredbebb\Documents\Visual Studio 2017\Projects\MachineLearning\ML\obj\Debug\netstandard1.4\ML.pdb
+C:\Users\jaredbebb\Documents\Visual Studio 2017\Projects\MachineLearning\ML\obj\Debug\netstandard1.4\ML.csprojResolveAssemblyReference.cache

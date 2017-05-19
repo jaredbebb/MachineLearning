@@ -1,0 +1,14 @@
+C:\Users\jaredbebb\Documents\Visual Studio 2017\Projects\MachineLearning\ML.Tests\bin\Debug\netcoreapp1.1\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+C:\Users\jaredbebb\Documents\Visual Studio 2017\Projects\MachineLearning\ML.Tests\bin\Debug\netcoreapp1.1\xunit.runner.utility.netstandard15.dll
+C:\Users\jaredbebb\Documents\Visual Studio 2017\Projects\MachineLearning\ML.Tests\bin\Debug\netcoreapp1.1\xunit.runner.reporters.netstandard15.dll
+C:\Users\jaredbebb\Documents\Visual Studio 2017\Projects\MachineLearning\ML.Tests\bin\Debug\netcoreapp1.1\ML.Tests.deps.json
+C:\Users\jaredbebb\Documents\Visual Studio 2017\Projects\MachineLearning\ML.Tests\bin\Debug\netcoreapp1.1\ML.Tests.runtimeconfig.json
+C:\Users\jaredbebb\Documents\Visual Studio 2017\Projects\MachineLearning\ML.Tests\bin\Debug\netcoreapp1.1\ML.Tests.runtimeconfig.dev.json
+C:\Users\jaredbebb\Documents\Visual Studio 2017\Projects\MachineLearning\ML.Tests\bin\Debug\netcoreapp1.1\ML.Tests.dll
+C:\Users\jaredbebb\Documents\Visual Studio 2017\Projects\MachineLearning\ML.Tests\bin\Debug\netcoreapp1.1\ML.Tests.pdb
+C:\Users\jaredbebb\Documents\Visual Studio 2017\Projects\MachineLearning\ML.Tests\bin\Debug\netcoreapp1.1\ML.dll
+C:\Users\jaredbebb\Documents\Visual Studio 2017\Projects\MachineLearning\ML.Tests\bin\Debug\netcoreapp1.1\ML.pdb
+C:\Users\jaredbebb\Documents\Visual Studio 2017\Projects\MachineLearning\ML.Tests\obj\Debug\netcoreapp1.1\ML.Tests.AssemblyInfo.cs
+C:\Users\jaredbebb\Documents\Visual Studio 2017\Projects\MachineLearning\ML.Tests\obj\Debug\netcoreapp1.1\ML.Tests.dll
+C:\Users\jaredbebb\Documents\Visual Studio 2017\Projects\MachineLearning\ML.Tests\obj\Debug\netcoreapp1.1\ML.Tests.pdb
+C:\Users\jaredbebb\Documents\Visual Studio 2017\Projects\MachineLearning\ML.Tests\obj\Debug\netcoreapp1.1\ML.Tests.csprojResolveAssemblyReference.cache
